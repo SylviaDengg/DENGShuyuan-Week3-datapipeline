@@ -1,0 +1,14 @@
+Quality Report
+==============
+
+Total articles: 8
+Valid: 8
+Invalid: 0
+
+Completeness (% with field present and non-empty):
+  title:   100%
+  content: 100%
+  url:     100%
+
+Top 3 validation reasons:
+  (none)
