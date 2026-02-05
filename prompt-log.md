@@ -1,4 +1,4 @@
-# Summary (added after the fact)
+# Summary (added before the transcript)
 
 ## Prompts used (high-level list)
 
@@ -15,7 +15,7 @@
 - Revise `validator.py` to be more comprehensive/consistent with clear error messages and stricter URL rules.
 - Create `run_pipeline.py` to load sample JSON, clean + validate each article, write `cleaned_output.json`, and write `quality_report.txt`.
 
-## What you asked to change (cleaner + validator)
+## What I asked to change (cleaner + validator)
 
 ### `cleaner.py` changes requested
 
