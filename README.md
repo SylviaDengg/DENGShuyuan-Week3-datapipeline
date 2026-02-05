@@ -14,9 +14,6 @@ The pipeline processes a small dataset of New York Times articles, applies rule-
 - `validator.py`  
   Data validation functions (required fields, URL format, content length checks)
 
-- `run_pipeline.py`  
-  Main script that runs the cleaning and validation pipeline
-
 - `sample_input_data.json`  
   Sample input dataset (NYT articles scraped during lecture)
 
@@ -59,7 +56,7 @@ Invalid records are flagged with explicit reasons rather than being removed.
 ---
 ## Running the Pipeline
 
-To run the full pipeline, execute run_pipeline.py. This script will:
+To run the full pipeline, a run_pipeline.py is created but not included in this repository that
 
 - Read sample_input_data.json
 - Clean all article records
